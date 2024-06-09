@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\Laba13\obj\Debug\net7.0\Laba13.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Laba13\obj\Debug\net7.0\Laba13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Laba13\obj\Debug\net7.0\Laba13.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Laba13\obj\Debug\net7.0\Laba13.AssemblyInfo.cs
+C:\Users\user\source\repos\Laba13\obj\Debug\net7.0\Laba13.csproj.CoreCompileInputs.cache
